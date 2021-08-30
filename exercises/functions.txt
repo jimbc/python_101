@@ -1,0 +1,37 @@
+1. inverse_list 
+Write a function that takes a list as argument and returns the inverted direction of that 
+list without using dedicated built-in functions.
+
+Example:
+	input:
+		array = [1,2,3,4,5,6]
+	output:
+		array = [6,5,4,3,2,1]
+
+def inverse_list(array):
+	# insert code here
+	
+	return array_inverted
+	
+2. crossfoot
+(a) Write a function that takes number as argument and returns the crossfoot or that number.
+	The crossfoot of a number is the sum all the digits of a number.
+(b) Make it more challenging by adding a type check in order to secure the functionality of 
+	the function.
+(c)	create a separate function is_int for the type check and create a working function.
+
+Example:
+	input:
+		number = 456
+	output:
+		crossfoot = 15
+		
+def crossfoot(number):
+	# insert code here
+	
+	return result
+
+3. median
+(a) Write a function that takes a arbitrary list of numbers as argument and returns the 
+	median of the list without using dedicated built-in functions.
+(b)	Include a type check of that list

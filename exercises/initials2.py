@@ -1,0 +1,5 @@
+name = input('Geben Sie Ihren Vornamen und Nachnamen ein: ')
+birth_year = input('Geben Sie Ihr Geburtsjahr ein: ')
+print('Ihre Initialen lauten: '+str(name[0])+'.'+str(name[name.find(' ')+1])+'.')
+print('Sie sind oder werden dieses Jahr', 2020-int(birth_year), 'Jahre alt!')
+print('Programmende')
